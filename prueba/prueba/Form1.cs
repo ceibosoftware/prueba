@@ -16,5 +16,10 @@ namespace prueba
         {
             InitializeComponent();
         }
+
+        private void checkBox2_MouseClick(object sender, MouseEventArgs e)
+        {
+
+        }
     }
 }
